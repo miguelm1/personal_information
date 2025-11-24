@@ -13,6 +13,6 @@ Experiencia que me define
 - Diseño y auditoría de redes, coordinación de contratas y control de costes.
 - Automatización de flujos de trabajo mediante scripts, dashboards y asistentes digitales que aceleran la toma de decisiones.
 
-## 🤝 Conecta conmigo
-- ✉️ [moreno.manrique@gmail.com](mailto:moreno.manrique@gmail.com)
-- 💼 [LinkedIn](https://www.linkedin.com/in/miguel-moreno-manrique-8284a845)
+Conecta conmigo
+- [moreno.manrique@gmail.com](mailto:moreno.manrique@gmail.com)
+- [LinkedIn](https://www.linkedin.com/in/miguel-moreno-manrique-8284a845)
